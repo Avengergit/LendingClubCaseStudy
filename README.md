@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Recommendations](#Recommendations)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -52,11 +52,14 @@ Approach Followed:
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## Recommendations
+- With respect to the Employment length and charged off ratio, it is observed that the many applicants under 1 year or unemployed experience charged off. So it is recommended that the lending club don't provide them with higher loan amount. It also helps applicants with lower interest rate and no charged off problems.
+
+- Lending club should carefully decide while giving loan for applicants with Public Bankruptcy Records.
+
+- Loans for small business applicants should be reconsidered as they fall under charged off. Giving huge amount of loan with higher interest rate lead to their charged off conditions. 
+
+- Loan has to be provided taking into consideration of annual income. This results in easy recovery without financial loss.
 
 
 ## Contact
